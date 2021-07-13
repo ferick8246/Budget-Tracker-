@@ -22,10 +22,10 @@ Used for inputting workout stats and transforming it into easy-to-read data for 
 
 ## Take A Look
 
-![This is the landing page for the tracker.]()
+![This is the landing page for the tracker.](https://github.com/ferick8246/Budget-Tracker-/blob/a001023f54c6489a6ff4be3acba64369a2bfcd90/Budget.PNG)
 
 
-![This is the dashboard with workout data]()
+![This is the dashboard with workout data](https://github.com/ferick8246/Budget-Tracker-/blob/a001023f54c6489a6ff4be3acba64369a2bfcd90/Budget2.PNG)
 
 ## Questions
 
