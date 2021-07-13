@@ -16,6 +16,11 @@ In this repository, I have built a Budget Tracker application utilizing IndexedD
 
 Click [here!](https://budgetracker2.herokuapp.com/)
 
+Or 
+
+You can watch video [here!](https://www.youtube.com/watch?v=-QZ_evbuXgs)
+
+
 ## Usage
 
 Used for inputting workout stats and transforming it into easy-to-read data for tracking progression.
