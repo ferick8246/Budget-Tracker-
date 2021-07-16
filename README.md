@@ -23,7 +23,10 @@ You can watch video [here!](https://www.youtube.com/watch?v=-QZ_evbuXgs)
 
 ## Usage
 
-Used for inputting workout stats and transforming it into easy-to-read data for tracking progression.
+Enter the name and amount for your transaction.
+Select whether you are adding or subtracting funds, via the buttons on the right of the form div.
+Analyze the graph to see the budget data.
+Extra: Open Dev Tools and navigate to the Network and Application tabs to see the insight of your data being called. Additionally, you can set your Network and service worker to offline to see the appliction working without internet access.
 
 ## Take A Look
 
